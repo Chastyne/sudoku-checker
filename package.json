@@ -1,0 +1,16 @@
+{
+  "name": "sudoku-checker",
+  "version": "1.0.0",
+  "description": "A simple Sudoku checker application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.7",
+    "eslint": "^9.6.0",
+    "jest": "^29.7.0",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
